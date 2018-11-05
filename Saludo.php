@@ -1,6 +1,7 @@
 <html>
  <head>
   <title>Saludo PHP 2.0</title>
+  <title>Saludo PHP 2</title>
  </head>
  <body>
  <?php echo '<p>Hola Mundo</p>'; ?>
